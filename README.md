@@ -10,7 +10,7 @@
 
 •	[Статья о Context Aware](https://www.researchgate.net/publication/220605653_Context-Aware_Recommender_Systems)
 
-•	[Статья о Deep Context Aware](https://arxiv.org/abs/1909.03999#:~:text=Context%2Daware%20recommender%20systems%20(CARSs,and%20sparsity%20of%20the%20model.)
+•	[Статья о Deep Context Aware](https://arxiv.org/pdf/1909.03999.pdf)
 
 •	[Git проект №1 в этом направлении](https://github.com/uwdata/dziban)
 
