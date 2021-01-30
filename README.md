@@ -101,4 +101,5 @@
 
 •	[Git с применением метода и его описанием](https://github.com/prallis/Recommender-systems-optimization-for-coverage-diversity-and-serendipity)
 
+<!--https://medium.com/tech-tajawal/recommendation-engine-explained-c5b8642cc0f-->
 
