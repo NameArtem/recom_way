@@ -1,9 +1,12 @@
 # recom_way
 
-Здесь собираю самые интересные статьи и работы по рекомендательным системам, которые позволили мне увеличить качество рекомендаций и/или сделать их интересными. Реализацию, наиболее интересные метрики и процесс развития эксперимента будут размещены [тут](https://github.com/NameArtem/recomy)
+Здесь собираю самые интересные статьи и работы по рекомендательным системам, которые позволили мне увеличить качество рекомендаций и/или сделать их интересными. Реализацию, наиболее интересные метрики и процесс развития эксперимента будут размещены [тут](https://github.com/NameArtem/recomy) в мае.
+
+
 
 ### Содержание :page_with_curl:
 * [JustRecommendations](#jr)
+* [Для доклада PyConBy 2021](#pyconby2021)
 * [Подборка для доклада на AIJ 2020](#aij2020)
 
 ------------------------------------------------
@@ -40,6 +43,28 @@
 
 </br>
 
+------------------------------------------------
+</br>
+</br>
+</br>
+
+### Для доклада PyConBy 2021
+
+<a name="pyconby2021"></a>
+
+**Статьи, которые повлияли на работу (систему рекомендаций) и помогли её сделать:**
+* [Context-Aware recommender systems for real world Applications](contex/papers/77724_AL-GHOSSEIN_2019_archivage.pdf)
+
+* [Collaborative filtering for implicit feedback datasets](contex/papers/als_cf.pdf)
+
+
+
+
+**Все ещё не получается реализовать:**
+* [A missing information loss for implicit feedback datasets](contex/papers/1805.00121.pdf)
+
+
+
 
 
 ------------------------------------------------
@@ -71,7 +96,7 @@
 
 ------------------------------------------------
 
-**Калибровка скоринга** 
+**Калибровка скоринга**
 
 •	[Трансформация ROC_AUC](https://www.researchgate.net/publication/322205695_Transforming_the_Area_under_the_Normal_Curve_AUC_into_Cohen's_d_Pearson's_r_pb_OddsRatio_and_Natural_Log_Odds-Ratio_Two_Conversion_Tables)
 
@@ -114,4 +139,3 @@
 •	[Git с применением метода и его описанием](https://github.com/prallis/Recommender-systems-optimization-for-coverage-diversity-and-serendipity)
 
 <!--https://medium.com/tech-tajawal/recommendation-engine-explained-c5b8642cc0f-->
-
