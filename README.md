@@ -53,15 +53,30 @@
 <a name="pyconby2021"></a>
 
 **Статьи, которые повлияли на работу (систему рекомендаций) и помогли её сделать:**
-* [Context-Aware recommender systems for real world Applications](contex/papers/77724_AL-GHOSSEIN_2019_archivage.pdf)
+* [Context-Aware recommender systems for real world Applications](context/papers/77724_AL-GHOSSEIN_2019_archivage.pdf)
 
-* [Collaborative filtering for implicit feedback datasets](contex/papers/als_cf.pdf)
+* [Collaborative filtering for implicit feedback datasets](context/papers/als_cf.pdf)
 
+* [Multi-gradient descent for multi-objective recommender systems](context/papers/2001.00846v3.pdf)
 
+* [Context-aware sequential recommendation](context/papers/1609.05787.pdf)
+
+* [Context-aware recommendations from implicit data via scalable tensor factorization](context/papers/1309.7611.pdf)
 
 
 **Все ещё не получается реализовать:**
-* [A missing information loss for implicit feedback datasets](contex/papers/1805.00121.pdf)
+* [A missing information loss for implicit feedback datasets](context/papers/1805.00121.pdf)
+
+
+**Примеры реализованных методов:**
+* [ALS](context/methods/ALS%20algorithm%20from%20collaborative%20filtering%20for%20implicit.ipynb)
+
+* [ALS and filter](context/methods/ALS%20filter.ipynb)
+
+* [Context](context/methods/context_score.ipynb)
+
+
+
 
 
 
