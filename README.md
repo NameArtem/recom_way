@@ -48,9 +48,10 @@
 </br>
 </br>
 
-### Для доклада PyConBy 2021
+### Для доклада [PyConBy 2021](https://by.pycon.org/)
 
 <a name="pyconby2021"></a>
+<p align ='center'><img src="img/pyconby2021.jpg"></p>
 
 **Презентация**
 * [Доклад на YouTube](-)
