@@ -55,7 +55,7 @@
 **Презентация**
 * [Доклад на YouTube](-)
 
-* [Презентация к докладу](context/presentation/PyConBy2021.pdf)
+* [Презентация к докладу](context/presentations/PyConBy2021.pdf)
 
 **Статьи, которые повлияли на работу (систему рекомендаций) и помогли её сделать:**
 * [Context-Aware recommender systems for real world Applications](context/papers/77724_AL-GHOSSEIN_2019_archivage.pdf)
